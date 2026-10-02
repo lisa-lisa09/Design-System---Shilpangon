@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" fill="none" role="img" aria-label="Shilpangon mark">
+  <title>Shilpangon mark – Swirl</title>
+  <g id="pinwheel">
+    <path id="blade-top" fill="#C1272D" d="M256 212 C266 136 216 66 106 80 C146 116 176 176 218 230 A46 46 0 0 1 256 212 Z"/>
+    <path id="blade-right" fill="#0F6E78" d="M300 256 C376 266 446 216 432 106 C396 146 336 176 282 218 A46 46 0 0 1 300 256 Z"/>
+    <path id="blade-bottom" fill="#C1272D" d="M256 300 C246 376 296 446 406 432 C366 396 336 336 294 282 A46 46 0 0 1 256 300 Z"/>
+    <path id="blade-left" fill="#0F6E78" d="M212 256 C136 246 66 296 80 406 C116 366 176 336 230 294 A46 46 0 0 1 212 256 Z"/>
+    <circle id="hub" cx="256" cy="256" r="28" fill="#C1272D"/>
+  </g>
+</svg>

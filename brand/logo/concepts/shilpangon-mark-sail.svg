@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" fill="none" role="img" aria-label="Shilpangon mark">
+  <title>Shilpangon mark – Sail</title>
+  <g id="pinwheel">
+    <path id="blade-top" fill="#C1272D" d="M229 229 L88 88 L236 88 C308 88 334 144 296 194 C286 207 274 218 260 222 A36 36 0 0 0 229 229 Z"/>
+    <path id="blade-right" fill="#0F6E78" d="M283 229 L424 88 L424 236 C424 308 368 334 318 296 C305 286 294 274 290 260 A36 36 0 0 0 283 229 Z"/>
+    <path id="blade-bottom" fill="#C1272D" d="M283 283 L424 424 L276 424 C204 424 178 368 216 318 C226 305 238 294 252 290 A36 36 0 0 0 283 283 Z"/>
+    <path id="blade-left" fill="#0F6E78" d="M229 283 L88 424 L88 276 C88 204 144 178 194 216 C207 226 218 238 222 252 A36 36 0 0 0 229 283 Z"/>
+    <circle id="hub" cx="256" cy="256" r="26" fill="#C1272D"/>
+  </g>
+</svg>

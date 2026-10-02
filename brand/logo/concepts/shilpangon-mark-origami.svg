@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" fill="none" role="img" aria-label="Shilpangon mark">
+  <title>Shilpangon mark – Origami</title>
+  <g id="pinwheel">
+    <path id="blade-top" fill="#C1272D" d="M186 186 L310 186 L310 76 Q310 56 294 72 Z"/>
+    <path id="blade-right" fill="#0F6E78" d="M326 186 L326 310 L436 310 Q456 310 440 294 Z"/>
+    <path id="blade-bottom" fill="#C1272D" d="M326 326 L202 326 L202 436 Q202 456 218 440 Z"/>
+    <path id="blade-left" fill="#0F6E78" d="M186 326 L186 202 L76 202 Q56 202 72 218 Z"/>
+    <circle id="hub" cx="256" cy="256" r="30" fill="#C1272D"/>
+  </g>
+</svg>
